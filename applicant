@@ -1,0 +1,131 @@
+applicantId,creationDatetime,creator,phone,address,businessSize,businessName
+00d0ce0b-dfeb-4531-87f6-a34210f0d110,"2020-01-13 18:21:07","Burt Curtis",9872039485,"3029 McMaster Court",Small,"Burt's Bees"
+019b3271-1ab4-4b1d-9372-5ad4f3ef4daa,"2020-01-13 19:50:39","Nikolai Vermont",3019283748,"2018 Katchup Lane",Large,"Karvey's Paint Stores"
+07c4a975-ac78-4632-9c57-1572c323c124,"2020-01-13 18:09:46",Katya,398732234,"928479 boat st",Large,"Boats inc"
+08204ca7-cc10-46bc-ba2a-59dc2b807a7d,"2020-01-13 18:09:30","Samantha Richardson",2020485968,"687 Lord Byron Lane",Large,HydroFlask
+091070ce-a706-4ee9-ac75-b53b12c7d375,"2020-01-13 19:47:46",NULL,NULL,NULL,NULL,NULL
+0cb23c67-7f0a-4289-96d3-47ded5bbbe40,"2020-01-13 18:46:28","Ali Hussaid",111-222-3336,"5558 Ali Ave. New York, NY 28383",Medium,HeadForEars
+0d0f42f5-d67d-4248-909d-0c0f6775e115,"2020-01-13 18:32:50","Henry Lima",3049859709,"098 Ticketson Road Suite 202",Large,"Apple Inc. "
+11fec4c9-560d-40dd-925e-959e4bb2a75e,"2020-01-13 19:47:41","Samuel Han",666-333-4446,"11 Monroe St.
+Wheaton, IL 60187",Independent,"BigData Analytics"
+14946feb-1e0d-4cf6-812f-592e63ec9a3c,"2020-01-13 18:18:21","Max Sacher",571-333-1112,"100 Max Dr. Centreville, VA 20120",Large,"Computer World"
+15ce920c-72f3-4302-a130-e521ad280b02,"2020-01-13 18:05:15",NULL,NULL,NULL,NULL,NULL
+16e909a8-2761-4885-8744-17fc8072f7ed,"2020-01-13 18:41:25","Ann Johnson",903890834,"8384 butterball pkwy",Large,MedStar
+178ef032-5f6e-45b8-812a-ea65659b3aaf,"2020-01-13 18:48:31","Jessica Parker",4059683387,"9687 Timonium Road",Large,"The Medical Innovators Research Grou"
+18732339-c20c-4b70-a995-4ff1b21d0383,"2020-01-13 19:32:59","Tobin O rourke",9327868723,"637 Hampden ln",Large,Nike
+1d35b55a-0d1c-4c0a-b63b-cf7b6354740f,"2020-01-13 19:36:11","Janice Joplin",830323224,"9876 guitar st",Small,"Pineapple inc"
+2093b635-e0a5-4430-b390-01d5b4131e4f,"2020-01-13 18:58:54","John Leopard",345-986-0934,"234 Irvine valley Rd Irvine, California",Large,Apple
+21928e42-9565-4db5-8bcc-00b8536d3dd6,"2020-01-13 19:14:13",NULL,NULL,NULL,NULL,NULL
+228765aa-00a0-4565-9f10-3a57cb31bc01,"2020-01-13 18:05:52","Carl Carlie",111-222-3333,"100 Carl St. New York, NY 14823",Large,"Big Carl's Cars"
+228d4dde-d88a-438e-ab26-3bdd4cd10b06,"2020-01-13 18:23:43","Henry Ford IV",123-456-7890,"123 Main St Detroit Michigan",Large,"Ford Motor Company"
+25833e0d-22c8-4570-9799-50cb0fdec41c,"2020-01-13 18:09:16","Elon Musk",123-345-6789,"5430 Old reston ave",Large,Tesla
+28c9dfdd-42b3-45a1-a7b3-464f0bed6754,"2020-01-13 19:27:58","Jannie Malkinson",98760898899,"8766 brunches pwky",Small,Popsecret
+2d5a06dd-dd92-4d3b-9fac-48dcfafb8d98,"2020-01-13 18:46:42","George Costanza",83972897,"856 Greensboro St",Medium,"
+Metalworks"
+2e8414a7-7b1e-4702-8fd6-0d2ff84a108b,"2020-01-13 18:53:43",Bezos,837389383,"84847 Amazon way",Independent,Jeff
+2ff41b8a-3479-4682-b1a4-7dca45ab00dc,"2020-01-13 20:33:32","Anjali Melton","(574) 547-2431","11 Mountain Rd Ellenville, New York(NY), 12428",Independent,JumpXS
+32a17235-db30-4926-be8a-dc87c7676e7d,"2020-01-13 20:22:30","Steve Jobs",4102938475,"8465 Icicle Lane",Large,"Apple Inc."
+33d8134c-85cf-480a-b03c-5ffd0c813b26,"2020-01-13 19:23:32","Madison Beer",3019273847,"1928 Singer Lane",Medium,"Natural Medicine Inc."
+3485d50a-5440-47c4-87bf-0386b81786a7,"2020-01-13 19:12:06",NULL,NULL,NULL,NULL,NULL
+34f1fbb8-5aeb-4a71-87cf-0a6a4bce282c,"2020-01-13 18:53:19","Nancy Grace",3019283756,"667 First Frost Way",Independent,
+36cf36ec-862f-41c1-8d46-afdf8e99ab98,"2020-01-13 19:55:10","Buggy Blumington",571-393-9999,"414 East Lawrence Street
+Hialeah, FL 33010",Large,"Bugs Bunny"
+38cc41a3-1387-4d40-8521-77e501f126a4,"2020-01-13 19:50:59","Micky Mouse",111-223-3331,"1100 Mick St. Ithaca, NY 14850",Small,"Big Mouse Traps"
+3bda84e1-dda8-43cb-9b63-2fb2df540f00,"2020-01-13 19:06:35","Maggie Maguire",232-232-1233,"51 Valley Street
+Stamford, CT 06902",Medium,MagLevCo
+3cf40d24-05d2-4dbf-be30-e36dd07d59e5,"2020-01-13 19:47:47","Hannah Baldwin",9494020243,"53 raven st",Large,"Phone case"
+42af8d91-3766-4a33-890a-e67739adf2d4,"2020-01-13 20:20:38","John Goodell",675-432-7650,"76 Main Ave New York, NY",Small,"BIC Inc."
+4740e754-c0b8-4938-b40c-cfc0daf2b489,"2020-01-13 18:37:58","John Muster",456-892-9273,"3311 Old Reston Ave",Small,"Better Websites Inc."
+489e66f6-5e3a-40dc-bb10-1d79b8f8b47a,"2020-01-13 18:58:30","Jerry Seinfeld",98362985,"876 G st",Large,"City Constructions"
+49b39852-5958-4bf8-b93e-aa960fa7fca7,"2020-01-13 19:00:29","Monte Ellis",3434343434,"5454 Mont Cir. Arlington, VA 23232",Large,MonUMen
+4e5c06b5-72ff-4614-94a3-c62768e0f2e4,"2020-01-13 18:52:54","George Orwell",569-023-8945,"349 Timely St Savannah GA",Small,"Mystic Dockers Inc."
+4e7497a6-e49c-4993-b37e-e3ed6f74b285,"2020-01-13 17:53:15",Katya,98930809,"123 Nilaani Lane",Small,Sam
+522e37c1-c740-4283-9627-36c664865bde,"2020-01-13 18:12:28",Katya,398230483,"64 Lipstick ave",Medium,"Make-up Forevr"
+536f1d36-4846-4617-a058-19a9b0975e2d,"2020-01-13 19:53:47",NULL,NULL,NULL,NULL,NULL
+56714203-eef7-437e-be1f-e017d8b9d41c,"2020-01-13 19:51:11","Layla-Mae Prince","(418) 687-2267","717 Johnson St Leitchfield, Kentucky(KY), 42754",Large,Realcube
+57e9dc75-9b81-4fce-9456-8b52559f6389,"2020-01-13 18:37:13",Katywu,484563492,"5647 Appletree ave",Independent,"Bright lights company"
+5826dc0c-3be8-49dd-9029-6e6274dbc447,"2020-01-13 18:20:08",Katya`,029383925,"8937 Allabaster Way",Small,"Herbal Chemical"
+587ea71d-690c-4a6b-ac10-fc21a5cc179b,"2020-01-13 19:35:20","Giannis Antek",433-232-1313,"63 Grand St.
+Linden, NJ 07036",Small,"NFL Level B"
+5cb5a6cb-7668-4e4c-a981-111aed9f9c40,"2020-01-13 19:31:08","Karen Stewart",4109283648,"8462 Booz Lane",Large,"School Supplies Inc."
+5f9794c2-7510-4b16-b6ec-955040c801bc,"2020-01-13 19:29:17","David Jin",334-998-6395,"364 Ocean Street
+Evansville, IN 47711",Large,"GOAT Design"
+669648ef-e7b1-441a-b56f-b84e1b6e7bf2,"2020-01-13 20:34:07",NULL,NULL,NULL,NULL,NULL
+683c39ed-856b-4c78-91b3-7808407fd812,"2020-01-13 17:52:55","Joe Haansen",2029384756,"10104 Woodlake Drive",Large,"Haansen Pharmaceuticals"
+6a161bc8-884d-44dd-8136-32bb4a6c0e13,"2020-01-13 20:12:27","Tom Handler",343-543-7982,"345 Apple Ln. Irvine CA",Large,Apple
+6c7d0895-bb6b-4c50-a217-f901effb214c,"2020-01-13 19:36:56",NULL,NULL,NULL,NULL,NULL
+6d38d30c-c2c0-445e-a1ce-f9853e26a3a0,"2020-01-13 18:28:47",Katya,9328930283,"76 Jason Ln",Large,"Recycled Fabrics Inc"
+6dfe4775-425c-4c93-bf0e-c77ac4b8a53a,"2020-01-13 19:31:01",NULL,NULL,NULL,NULL,NULL
+6f69dc6b-944b-448b-91c1-378eca76e7ca,"2020-01-13 18:26:49",KAtya,3897298347,"838 Patuxtent Pkw",Independent,"Cellphone makers "
+71191220-f6dd-4f7b-85c3-7f26445651ce,"2020-01-13 18:30:07","May Kurt",4109283746,"301 York Road",Large,"Paper & Office Supplies Inc. "
+7682f4e3-c409-4eb8-9030-5ce858d879e3,"2020-01-13 18:32:00",NULL,NULL,NULL,NULL,NULL
+773c6dcb-dd27-4f09-b915-3158b55449b6,"2020-01-13 19:23:04","Henry Ford IV",345-098-7890,"560 Ford Ln Detroit MI",Large,Ford
+79c6c734-825c-40ff-88fc-3d684a0838a6,"2020-01-13 18:30:14","Samuel Han",571-639-9316,"100 Fairview Sq., Ithaca, NY 14850",Independent,GumPower
+7e29f0d8-0d1b-4b82-90e7-df47b8f73908,"2020-01-13 18:30:27","Teddy Sham",569-934-0925,"432 New York Ave New York",Medium,"ShamWOW Inc."
+848621ec-2ca9-4593-a00d-5a2475e658a6,"2020-01-13 20:37:24","Jane Doey",3049586767,"394778 Cisco Way",Independent,
+865a8d0b-48e6-419a-b69d-06ef4783bfbf,"2020-01-13 19:00:49","Kendra Venkat",3948596079,"5968 Pittsburgh Street.",Small,"Sharpie Inc. "
+86a15df6-c3f2-4801-ba9f-1bb1d522a7c9,"2020-01-13 20:35:47","Smeel Smelly",703-133-4739,"735 Young Rd.
+Huntersville, NC 28078",Large,"Smell Company"
+895ec211-2de4-448f-baa2-33df673299d4,"2020-01-13 19:06:11","Linda Holt",456-920-2345,"560 Felix Dr Detroit MI",Large,Goodyear
+89f89297-6439-48fb-b4e7-7c1f30024650,"2020-01-13 20:34:08","Jemma Long",3090902843,"387 Verified St",Medium,"material inc"
+90e92276-8593-4b0a-9d57-9c8e4d224db8,"2020-01-13 18:25:24","Kom Kompter",111-222-3334,"100 Kom Ave. New York, NY 14823",Small,KomputerWrld
+922dcee8-fae3-4e16-8a5b-198ea28ef58d,"2020-01-13 18:26:48",NULL,NULL,NULL,NULL,NULL
+93d2a6dd-0e19-4861-8660-7473fd04bd6b,"2020-01-13 18:50:51","Keandre Williams",921083093,"4848 park ave",Independent,"Plushy stuffs"
+99cb71ac-ca40-41f1-aa70-2a326ff1558e,"2020-01-13 18:22:41",Katya,590850344,"933 Bright lane ",Medium,"Markers Co."
+9a65faad-6d3a-4033-9ee6-6187e385cb64,"2020-01-13 19:08:49","Bailey Peachman",39493090443,"4995 redbone ave",Independent,"Thermos Inc"
+9b034e38-721b-4804-b0ca-646a10ac0633,"2020-01-13 17:54:36","Jorge Camacho","202 495 8954","8004 Amherst Street
+Wakefield, MA 01880",Large,"Johns and family"
+9f80832c-57b5-4c06-ab9f-63f8dfdf1e3e,"2020-01-13 19:52:14","Frank Bellow",687-345-8013,"67 Hofter St. New York NY",Small,"Adhesives Inc."
+a1325f18-0dc5-43c9-a85e-8f4e0075b7dd,"2020-01-13 20:19:37",Darryl,2038390488,"435 grant ave",Large,"Peabody Coal"
+a17fe900-3103-455a-8373-17cfbe6c6313,"2020-01-13 19:07:02","Kathleen James",3049572837,"3856 High Lane",Large,"Bath & Body Works Inc. "
+a1b8b169-5fc4-4cd4-8bdb-30abbb5abcec,"2020-01-13 18:49:21","Bob Bare",111-223-3334,"3232 Bare St. New York, NY 15332",Large,BuildTheBear
+a256731c-794d-4f96-8841-0a1adee81186,"2020-01-13 19:42:07","Billy Banks",383-223-5532,"9 Amerige Street
+Owatonna, MN 55060",Large,BigBankerz
+a38b6829-3346-4c46-a24a-550ddf6f95f8,"2020-01-13 20:21:50","Eshal Barclay","(896) 803-9188","18834 421st Hwy
+Hyden, Kentucky(KY), 41749",Independent,Snaptags
+a415de86-87a9-4e80-9648-296b93820065,"2020-01-13 19:13:12","Jane Pillowsford",4109873948,"4958 Jonesy Lane",Large,"MicroSert Computers Int. Corp."
+a6a07082-67e6-4b93-aae4-f657e79c52a0,"2020-01-13 19:55:54","Mandy Kibble",3012935868,"39745 Sunday Ave",Medium,"Jackson Pharmaceuticals"
+a96cb1b8-14c9-43a8-ae68-cb422e908098,"2020-01-13 19:47:09","Bo Leball",3019293748,"182 Pepperwood Drive",Medium,"Bowl America Inc. "
+a9ba4590-4ffc-458a-bb63-ddb15a11add0,"2020-01-13 18:32:02",katy,847984732,"39 battery ln",Small,"Tiny Battery Co."
+aaeeb405-2984-42a5-8627-0508ec39d9b0,"2020-01-13 20:27:45","Katie Ott",5960127485,"945 Little Watch Ave",Large,"Focus Medical Clinic & Pharmacy"
+aedb88fb-88f0-4431-a992-7b50abcdd0ca,"2020-01-13 19:53:49","Jacob Boznic",9398483,"94 bramble ave",Medium,"John Deere"
+af4f38ea-9fef-4877-b498-373cc8a61a5a,"2020-01-13 19:31:02","Hannah Blake",93328093,"4380 ocean drive",Large,Cordy
+b1031503-61b0-4f5b-882f-5f2262a39a65,"2020-01-13 19:13:57","Albert White",571-242-4343,"9484 Fairfield Court
+Savannah, GA 31404",Small,"WhiteBoard Co."
+b4dfb89e-5251-45f5-bba6-a69e3875d49f,"2020-01-13 20:12:13","Reeva Kerr","(691) 715-4333","7737 Hesper Rd Billings, Montana(MT), 59106",Independent,Zoonoodle
+b57c0817-38a8-46cb-b269-c4df16cb4401,"2020-01-13 18:34:11",Katya,38748974,"9929 architecture ave",Large,"Building stuff Inc"
+b5fc6dde-eebc-4da0-b64f-8b61e2d0338f,"2020-01-13 18:41:15","Pen Tell",111-222-3343,"100 Pen St. New York, NY 14852",Large,PenTellers
+b9311ef4-0521-4272-980b-4a71bba02105,"2020-01-13 19:26:11","Elon Musk",567-978-5672,"345 Main St Irvine CA",Large,tesla
+ba0eec93-609b-4b78-833d-9505648abfec,"2020-01-13 19:24:31","Wally Wavey",403-444-2232,"8877 Vine St.
+Stratford, CT 06614",Large,WaveZ
+ba2cce4d-7efa-46d8-ace3-380106f00830,"2020-01-13 20:17:57","Guillere Cartier",4957192489,"3849 French Avenue",Large,"Cartier Inc."
+babd12a5-5e5b-46a7-92de-1773764b82c4,"2020-01-13 17:52:51","Elon Musk",123-345-4567,"123 Main St california",Large,Tesla
+bb757fa1-e353-4c9d-9774-58aac89ba312,"2020-01-13 19:57:46","Fal Facial",111-222-7383,"2323 Fal St. Reston, VA 32323",Medium,Facers
+bbd0e2d6-7de2-4452-b4c2-a1821dd097dd,"2020-01-13 19:26:06","Murtaza Willis","(358) 700-3843","730 Saint Nicholas Dr
+East Saint Louis, Illinois(IL), 62206",Independent,Kanoodle
+be655cda-ff80-456a-9f63-518a6cbd9021,"2020-01-13 18:54:00","Zo Zoomer",353-323-2324,"3234 Zo Dr. Reston, VA 23232",Small,ZoomZoom
+c052c13d-0053-49af-b44f-04651e5ee1dc,"2020-01-13 18:34:10",NULL,NULL,NULL,NULL,NULL
+c509f4f3-24ae-4398-b4f9-248456276944,"2020-01-13 19:47:03","John Blender",564-432-7981,"678 Blender Dr. Nashville TN",Medium,"Blender Bottle Inc."
+c76f616d-3831-4c7a-bc63-e420e4f02eda,"2020-01-13 21:44:03","Sheila Patrick",5540283474,"485 First Frosty Lane",Large,"Gumdrop Inc."
+d1383367-b7e4-4cdd-a09d-411cb67f7352,"2020-01-13 19:29:15","Natalie Mariduena",3940291837,"384 Kennedy Road",,
+d59f2644-9346-42f0-bc92-47fe0633f4d8,"2020-01-13 19:14:15",NULL,NULL,NULL,NULL,NULL
+d61fe2d3-ddbd-4ad9-9e10-d9c54982fa6e,"2020-01-13 19:16:01","Tom Joykins",560-930-9201,"12001 Market St Reston VA",Medium,"FenceTon LLC"
+d650bf01-39fe-4d0e-9032-33160c860b1e,"2020-01-13 20:40:15",NULL,NULL,NULL,NULL,NULL
+dd4edc92-d3f2-4282-b0f5-3747ff119102,"2020-01-13 18:12:22","Noushin Beh","(418) 687-2267","530 Brookwater Dr
+Huffman, Texas(TX), 77336",Medium,"Word class pen"
+df8d8405-ba78-4ef0-a2ab-2ff2f0818381,"2020-01-13 18:05:35",NULL,NULL,NULL,NULL,NULL
+e1b6255a-2ef3-49d9-903d-01e17aa47383,"2020-01-13 19:25:39","Samantha Stevens",75439756,"4949 branch ave",Medium,Brightylighty
+e27c73b1-7b2b-49cd-a4a0-a1b68be0fc21,"2020-01-13 18:11:56","Samuel Han",111-111-1111,"100 Fairfax Sq. New York, NY 14820",Medium,"Car Innov@torZZZ"
+e35b231b-b012-4636-b516-1d0a273a82f8,"2020-01-13 19:04:41","The devil",4904309843,"9494 farm way",Medium,Monsanto
+e68a41f9-fa5b-4aed-ae20-18b74a71d061,"2020-01-13 19:19:07","Hope Wisely",590-920-3489,"679 Cupcake Ln. Tuna, GA",Small,"Indigo Colors Inc."
+e8708ee9-f628-428d-994b-899d9d90ca47,"2020-01-13 19:17:22","Jonah Antonian",3019283648,"857 Studio Drive",Large,"Tech Innovations Inc."
+ebf6a840-32d2-41cd-af7d-2e75ae8a3f2e,"2020-01-13 20:17:04","Joe Shmorm",654-978-3451,"456 Main St Witchita, Kansas",Large,"Farming Inc."
+f63cd5dc-f124-4816-ae16-5e10343f2a69,"2020-01-13 18:42:08","Michael Pam",3049586789,"1938 Scranton Avenue",Large,"Scranton Paper & Ink Co."
+f81ef25d-d96d-4db7-a1c0-76005a7dfa6c,"2020-01-13 17:56:47","Samuel Han",1111111111,"100 Fairfax Sq. New York, NY 14820",Medium,"Car Innov@torZZZ"
+f897689a-7bfe-4e83-ba98-d5696600f926,"2020-01-13 19:03:06","Chris Mamba",2023948678,"5867 Forkson Lane",Small,"Cool Designs Inc."
+f9295264-bc68-4584-b529-8e9180d6bfee,"2020-01-13 19:32:45","John Tablesom II",687-321-7895,"679 Old Reston Ave",Small,"Tables Inc."
+f965d8ec-b367-48e1-8139-6b96c04d54c5,"2020-01-13 19:45:00","Ayyub Talbot","(358) 700-3843","838 Santuc Dr
+Union, South Carolina(SC), 29379",Small,Tanoodle
+fb2773d4-6420-48c9-912a-de285969b07d,"2020-01-13 19:14:19","Jorge Masvidal",984309843,"848 webster hwy",Medium,"Sticky thumbs"
+fbf41f38-4b8e-4b27-8f16-07cd1a2fd824,"2020-01-13 19:08:48",NULL,NULL,NULL,NULL,NULL
+fe98d6ed-7918-469a-8f6d-77302870b82c,"2020-01-13 19:37:16",NULL,NULL,NULL,NULL,NULL
